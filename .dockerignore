@@ -1,0 +1,14 @@
+# Ignorar dependências
+**/node_modules
+npm-debug.log
+
+# Ignorar ambientes de desenvolvimento
+.git
+.gitignore
+.vscode
+
+# Ignorar saídas de build
+dist
+tmp
+out-tsc
+coverage
